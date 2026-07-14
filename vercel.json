@@ -1,0 +1,5 @@
+{
+  "installCommand": "echo skip install",
+  "buildCommand": "node write-env.cjs",
+  "outputDirectory": "dist"
+}
